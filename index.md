@@ -5,7 +5,7 @@ title: Daniel - Portfolio
 
 **Bot Developer & Backend Engineer**
 
-I am a backend developer specializing in creating Telegram bots, web applications, and services for YouTube Analytics.  
+I am a backend developer specializing in creating Telegram bots, API servers, backend development.  
 My skills include **Java, Spring Boot, PostgreSQL, MongoDB, Redis, Docker**, and working with APIs (**YouTube, Telegram, OpenAI**).
 
 ---
