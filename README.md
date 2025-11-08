@@ -1,1 +1,0 @@
-# DanielBelovol.github.io
