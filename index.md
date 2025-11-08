@@ -15,13 +15,17 @@ My skills include **Java, Spring Boot, PostgreSQL, MongoDB, Redis, Docker**, and
 ### ThumbnailTester
 [View on GitHub](https://github.com/DanielBelovol/ThumbnailTester)
 
-**ThumbnailTester** is a service for testing YouTube thumbnails and analyzing statistics.  
+**ThumbnailTester** is a commercial project designed for testing YouTube thumbnails and analyzing video statistics.  
+I actively participated in the development of this project, which involved creating backend services, handling data collection via APIs, and building dynamic WebSocket-based test configurations.
+
 It allows you to:
 
 - Run A/B tests for thumbnails and titles
 - Collect detailed statistics: views, average watch duration, CTR, watch time
 - Configure tests dynamically via WebSocket API
 - Support Google authorization and test configuration management
+
+Additionally, I contributed to **Feedzy**, a commercial project that is still in development, focusing on backend features and integration of analytics services.
 
 ---
 
@@ -30,9 +34,9 @@ It allows you to:
 - **Databases:** PostgreSQL, MongoDB, Redis
 - **DevOps & Tools:** Docker, Git, GitHub Actions, CI/CD
 - **APIs:** YouTube Analytics, Telegram Bot API, OpenAI API
-- **Frontend:** HTML, CSS, Tailwind
 
 ---
 
 ## Contact
-- Discord: `krasher7949`
+Discord: `krasher7949`
+
